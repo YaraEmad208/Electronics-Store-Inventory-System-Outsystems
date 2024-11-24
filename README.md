@@ -1,0 +1,1 @@
+A small electronics store is having trouble keeping track of its inventory levels. They often run out of popular items and end up with too many of the items that don't sell well. They need a solution to help them manage their inventory more efficiently and avoid stockouts and overstocks.
